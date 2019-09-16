@@ -1,3 +1,9 @@
-Olá mundo!
+Olï¿½ mundo!
 
 Colab2 editou a.txt
+Colab1 editou a.txt
+
+
+
+
+Colab1 alterou
